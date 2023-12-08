@@ -8,7 +8,7 @@ function Footer() {
       <div className="footer container">
          
          <div>
-            <img src={footer} alt="footerlogo" class="footerlogo"/>
+            <img src={footer} alt="footerlogo" className="footerlogo"/>
          </div>
          <div>
             <a href="#top">Languages</a>

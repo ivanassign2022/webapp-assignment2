@@ -45,3 +45,16 @@
 .mt-4{
    margin-top:1rem;
 }
+
+.commentCount {color:#FFFFFF;
+margin-left:10px;
+}
+.addCommentsBtn{
+   border:1px solid #CCCCCC ;
+   padding: 5px;
+   border-radius:5px;
+   cursor:pointer;
+   margin: 10px 0 0 20px;
+    padding: 0 2px;
+    width: 15px;
+}
